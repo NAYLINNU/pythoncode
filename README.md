@@ -1,1 +1,2 @@
-# pythontxt
+# pythoncode
+educational purpose
